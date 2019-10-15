@@ -1,12 +1,12 @@
 {
-  "name": "blog-mail",
+  "name": "SMD.404",
   "version": "1.0.0",
-  "description": "blog",
+  "description": "GulpDEV",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "FJ",
+  "author": "SMD.404",
   "license": "ISC",
   "devDependencies": {
     "browser-sync": "^2.26.7",
